@@ -1,100 +1,117 @@
-# Hi, I'm Emmanuel Chibuzor 👋
+# Emmanuel Chibuzor
 
-![Profile Views](https://komarev.com/ghpvc/?username=Imanuelchibuzor&label=Profile%20Views&color=0e75b6&style=flat-square&base=0) 
-[![AI Portfolio](https://img.shields.io/badge/AI%20Automation%20Portfolio-Visit%20Site-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://emmanuelchibuzor.vercel.app)
-[![MERN Portfolio](https://img.shields.io/badge/Full-Stack%20Portfolio-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://emmanuel-chibuzor.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imanuelchibuzor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/emmanuel-chibuzor-0b5812294/)
+[![Email](https://img.shields.io/badge/Email-imanuelchibuzor@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanuelchibuzor@gmail.com)
+![Location](https://img.shields.io/badge/Lagos-Nigeria-2E7D32?style=flat-square&logo=googlemaps&logoColor=white)
 
-**AI Automation Engineer & Systems Architect**  
-**Full-Stack MERN Developer** (4+ years)  
+**Full-stack developer and GTM engineer.** I build the product, and I build the pipeline that fills it.
 
-I build **production-ready systems** that blend clean MERN code with intelligent AI automations — turning manual business chaos into scalable, reliable workflows.
-
----
-
-## 🧩 About Me
-
-I’m a passionate **Full-Stack MERN Developer** who architects end-to-end systems that actually scale.  
-
-From designing intuitive user interfaces to building robust backends and intelligent AI-powered automations, I specialize in the **entire development lifecycle**. I combine **MERN stack excellence** (React, TypeScript, Node.js, MongoDB) with **no-code/low-code automation platforms** (n8n, Make.com) and AI APIs to deliver hybrid systems that eliminate manual work for startups and lean teams.
-
-**What I deliver:**
-- **AI Workflow Automation** — End-to-end systems for operations, sales, content, and customer support  
-- **Systems Architecture** — Reliable backbones with Supabase/Airtable, lead pipelines, and multi-tool integrations  
-- **Production-Grade Full-Stack Apps** — Scalable web applications with real-time features, payments, and dashboards  
-
-I don’t just write code — I **build systems that connect people, tools, and data** without adding headcount.
+Most engineers do one or the other. I ship production applications, and I ship the AI outbound
+infrastructure that finds, qualifies and reaches the people those applications are for. The two feed
+each other: knowing how a pipeline is actually built changes how you write the app it points at.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## What I do
 
-| Category                  | Technologies |
-|---------------------------|--------------|
-| **Frontend**              | `React` `TypeScript` `Tailwind CSS` `Framer Motion` |
-| **Backend & Databases**   | `Node.js` `Express.js` `MongoDB` `Supabase` `Airtable` `PostgreSQL` `JWT` `REST APIs` `GraphQL` |
-| **AI & Automation**       | `n8n` `Make.com` `OpenAI` `Claude` `Gemini` `VAPI` `Anthropic` `RAG` `Web Speech API` `Google Translate API` `PDF.co` |
-| **Tools & Others**        | `Apify` `Bouncer` `Git` `Vercel` `Real-time systems` |
+### Full-stack engineering
 
-I excel at **hybrid architectures** — production MERN applications + AI automation workflows that are fast to ship and easy to maintain.
+React and Next.js on the front, Node and Express on the back, MongoDB and Postgres underneath.
+Clean Architecture in the API layer, TypeScript throughout, real auth and payment flows rather
+than demo ones. Marketplaces with vendor approval queues, affiliate attribution and payouts.
+Booking platforms with third-party inventory. Business sites that load fast and convert.
 
----
+### GTM engineering
 
-## 🚀 Featured Projects
+Cold outbound infrastructure at the scale of tens of thousands of leads per campaign. Lead
+sourcing, an enrichment waterfall, qualification gates, engineered personalisation (vector
+matching and hook generation, not a prompt asking an LLM to be creative), deliverability and
+mailbox warmup, then sending and automated response handling.
 
-I showcase the full range of my skills across both **AI automation systems** and **full-stack applications**:
+Built on Supabase, Trigger.dev, n8n, Smartlead and the Claude and OpenAI APIs.
 
-**🔥 AI-Powered Invoice Processing**  
-Extracts and structures vendor invoices from emails/PDFs into financial records.  
-*Tech*: Make.com + OpenAI + PDF.co + Google Sheets  
-→ AI Automation Portfolio
+### Marketing engineering
 
-**🍅 Tomato**  
-Full-stack food ordering platform with payments, admin dashboard, and real-time inventory.  
-*Tech*: React + Tailwind + Node.js + MongoDB + JWT  
-→ Full-Stack Portfolio
-
-**📝 Intelligent Proposal Generation**  
-Turns discovery call notes into personalized proposals in minutes.  
-*Tech*: n8n + OpenAI + Airtable + Google Docs  
-→ AI Automation Portfolio
-
-**🎤 Free Scribe**  
-Real-time speech-to-text with instant multi-language translation.  
-*Tech*: React + Tailwind + Web Speech API + Google Translate API  
-→ Full-Stack Portfolio
-
-**🤖 Voice & Text AI Support Agent (RAG)**  
-Handles payments, onboarding, and compliance for a fintech (mock RelayPay).  
-*Tech*: Claude + n8n + VAPI + RAG  
-→ AI Automation Portfolio
-
-**📊 Multi-Department Performance Dashboard**  
-Real-time KPI consolidation across Sales, Delivery & Operations.  
-*Tech*: Make.com + Airtable  
-→ AI Automation Portfolio
-
-→ **See all live demos, architecture diagrams & case studies**  
-[AI Automation Portfolio](https://emmanuelchibuzor.vercel.app) • [Full-Stack MERN Portfolio](https://emmanuel-chibuzor.vercel.app)
+The join between the two. Content systems, reporting that a non-engineer can act on, and the
+internal tooling that makes a small go-to-market team behave like a large one.
 
 ---
 
-## 🌟 Currently Building
-- Reusable open-source n8n + OpenAI/Gemini workflow templates  
-- Advanced multi-agent RAG systems with Supabase vector stores  
-- Custom React/TypeScript dashboards for automation monitoring  
+## Tech
+
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend and data**
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**GTM and automation**
+![Trigger.dev](https://img.shields.io/badge/Trigger.dev-A78BFA?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+
+**Payments and infra**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-011B33?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📬 Let's Connect & Build Together
+## Selected work
 
-Open to **AI automation consulting**, **systems architecture projects**, **full-stack collaborations**, or joining a team that ships real impact.
+**[Major Dream Nigeria Limited](https://majordreamsltd.com)** · live  
+Website for a Lagos steel, fabrication and site safety supplier: 33 product lines with a quote form that hands the enquiry straight to WhatsApp.  
+`Next.js 16` `React 19` `Tailwind CSS 4` `TypeScript`
 
-- **AI Automation Portfolio**: [emmanuelchibuzor.vercel.app](https://emmanuelchibuzor.vercel.app)  
-- **Full-Stack Portfolio**: [emmanuel-chibuzor.vercel.app](https://emmanuel-chibuzor.vercel.app)  
-- **Email**: imanuelchibuzor@gmail.com  
+**Saerv v1 and v2** · private  
+A digital product marketplace with vendor approval queues, a permanent buyer library and audited affiliate attribution, built twice: once international on Stripe with purchasing power parity pricing, once for Nigeria on Paystack.  
+`React` `Express` `MongoDB` `Stripe` `Paystack` `JWT`
+
+**LinkedIn content engine** · private  
+A Claude Code skill that gathers signal from meetings, commits and the web, then drafts one publication-ready post with a rendered visual and delivers it to Slack for review.  
+`Node` `Playwright` `Slack API` `Claude`
+
+**TripBooka** · private  
+Backend and frontend feature work on a production travel booking platform, built on Clean Architecture in Express.  
+`Next.js` `React 19` `TypeScript` `Express` `MongoDB` `Redis` `Clerk`
+
+**InsightEdge Training Hub** · private  
+Marketing site for a learning and development company running corporate training and career coaching across Africa.  
+`React` `Vite` `Tailwind CSS`
+
+**Talent Hunt Solutions** · private  
+Marketing site for a recruitment service built around a data-driven shortlist, so a hiring manager can commit after one meeting.  
+`React` `Vite` `Tailwind CSS`
 
 ---
 
-*Made with ❤️ in Lagos, Nigeria*  
-*Last updated: April 2026*
+> The private repositories above are mine and I am happy to **grant access on request**. Email me
+> and say which one. TripBooka belongs to its own organisation, so I can walk you through that one
+> instead.
+
+---
+
+## Get in touch
+
+Open to full-stack, GTM engineering and marketing engineering work.
+
+[![Email](https://img.shields.io/badge/Email-imanuelchibuzor@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imanuelchibuzor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Chibuzor-0A66C2?style=flat-square)](https://www.linkedin.com/in/emmanuel-chibuzor-0b5812294/)
