@@ -93,9 +93,9 @@ A Claude Code skill that gathers signal from meetings, commits and the web, then
 Backend and frontend feature work on a production travel booking platform, built on Clean Architecture in Express.  
 `Next.js` `React 19` `TypeScript` `Express` `MongoDB` `Redis` `Clerk`
 
-**InsightEdge Training Hub** · private  
-Marketing site for a learning and development company running corporate training and career coaching across Africa.  
-`React` `Vite` `Tailwind CSS`
+**[InsightEdge Training Hub](https://insightedge-training-hub.vercel.app)** · live  
+Marketing site for a Lagos learning and development company: twelve programmes behind a filterable explorer, and a six-question path finder that recommends a track and writes the enquiry for the visitor.  
+`Next.js 16` `React 19` `Tailwind CSS 4` `TypeScript`
 
 **Talent Hunt Solutions** · private  
 Marketing site for a recruitment service built around a data-driven shortlist, so a hiring manager can commit after one meeting.  
